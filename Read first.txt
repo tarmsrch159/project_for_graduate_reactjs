@@ -1,0 +1,14 @@
+Nodejs Version 
+	- v18.17.0
+
+เริ่มต้นการใช้งาน User และ Admin folder (React JS)
+	- เปิด VS code
+	- รันคำสั่ง
+		- npm install (download dependencies)
+		- npm run dev (run Application)
+
+เริ่มต้นการใช้งาน Server Nodejs
+	- เปิด folder Server
+	- รันคำสั่ง
+		- npm install (download dependencies)
+		- npm run dev (run Server)
